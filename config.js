@@ -1,6 +1,6 @@
 const configs = {
-  DatabaseURL: "mongodb://127.0.0.1:27017/test",
-  port: 88
+  DatabaseURL: "mongodb://arasharbabi.com:27017/musicdler",
+  port: 81
 }
 
 module.exports = configs
